@@ -62,7 +62,7 @@ function getVersion() {
 //echo getVersion();
 echo getVersion(); // "v1.2.4"
 // Usage: echo 'MyApplication ' . ApplicationVersion::get();
-//gitRepoDownload($gitreponame, $url);
+gitRepoDownload($gitreponame, $url);
 
 
 ?>
